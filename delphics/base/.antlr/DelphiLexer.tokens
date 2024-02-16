@@ -1,0 +1,11 @@
+TokenIdentifier=1
+TokenInteger=2
+TokenReal=3
+StringLiteral=4
+ControlLiteral=5
+DigitSequence=6
+HexDigitSequence=7
+WS=8
+UNICODE_BOM=9
+COMMENT=10
+'\uFEFF'=9
